@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "outDir": "app/js"  // 出力先
+  },
+  "filesGlob": [
+    "app/*.ts"  // コンパイル対象
+  ]
+}
